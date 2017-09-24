@@ -1,0 +1,44 @@
+#banner {
+	margin-top:50px;
+	text-align:center;
+}
+
+#zz_image{
+	width:100%;
+	height:300px;
+
+}
+
+
+#articleImg{
+	width:100px;
+	height:100px;
+		
+}
+
+.textSh {
+	text-shadow :1px 1px 1px black;
+}
+
+body {
+	margin:0;
+	padding:0;
+	background:url("../images/fond.png") no-repeat center fixed;
+	background-size: cover;
+}
+
+.container  {
+	background-color:#F2F3F4;
+	padding:20px;
+	border-top : 1px outset #CACFD2;
+}
+
+.artic {
+	margin-bottom:50px; 
+	border-top : 1px outset #CACFD2;
+}
+
+
+#footer {
+	margin-bottom:50px
+}
